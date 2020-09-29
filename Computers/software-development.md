@@ -12,3 +12,5 @@
 A comprehensive and ever expanding list of useful things to gain knowledge about programming.
 * __[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)__
 An ever expanding list of projects to tackle using software development.
+* __[42-subjects](https://github.com/fpetras/42-subjects)__
+A collection of cool projects to tackle using software development. From 42 school.

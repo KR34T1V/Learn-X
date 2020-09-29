@@ -1,4 +1,4 @@
-# Learn-to-X (Insert Skill Here)
+# Learn-X (Insert Skill Here)
 A compilation of educational links for free self study.
 # Computers
 ## Software Development

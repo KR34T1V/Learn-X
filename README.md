@@ -1,5 +1,6 @@
 # Learn-X (Insert Skill Here)
 A compilation of educational links for free self study.
+# ![Learn-X](Forster.jpg)
 # Computers
 ## Software Development
 * __[Free Code Camp](https://www.freecodecamp.org/)__

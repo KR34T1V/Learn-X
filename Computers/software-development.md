@@ -3,6 +3,8 @@
   freeCodeCamp is a proven path to your first software developer job. Its curriculum will give you thousands of hours of hands-on programming practice.
 * __[The Odin Project](https://www.theodinproject.com/)__
   The Odin Project provides a free open source coding curriculum that can be taken entirely online.
+* __[Full Stack Python](https://www.fullstackpython.com/)__
+  A very useful site for learning all the ins and outs of python web development.
 * __[Interneting Is Hard](https://www.internetingishard.com/)__
   A comprehensive set of web development tutorials to help transform complete beginners into talented Interneting professionals.
 ## Other Cool Links

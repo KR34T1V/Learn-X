@@ -5,8 +5,8 @@
   The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 * __[Full Stack Python](https://www.fullstackpython.com/)__
   A very useful site for learning all the ins and outs of python web development.
-* __[Interneting Is Hard](https://www.internetingishard.com/)__
-  A comprehensive set of web development tutorials to help transform complete beginners into talented Interneting professionals.
+* __[W3Schools](https://www.w3schools.com/)__
+  A comprehensive set of web development tutorials to help transform complete beginners into talented professionals.
 ## Other Cool Links
 * __[Project Euler](https://projecteuler.net/)__
   Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.

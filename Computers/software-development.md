@@ -1,4 +1,5 @@
 # Software Development
+## Full Stack
 * __[Free Code Camp](https://www.freecodecamp.org/)__
   freeCodeCamp is a proven path to your first software developer job. Its curriculum will give you thousands of hours of hands-on programming practice.
 * __[The Odin Project](https://www.theodinproject.com/)__
@@ -7,6 +8,11 @@
   A very useful site for learning all the ins and outs of python web development.
 * __[W3Schools](https://www.w3schools.com/)__
   A comprehensive set of web development tutorials to help transform complete beginners into talented professionals.
+## Back-End
+## Front-End
+* __[CSS-Tricks](https://css-tricks.com/)__
+  A large community with all the tutorials tips and tricks related to CSS.
+## Systems
 ## Other Cool Links
 * __[Project Euler](https://projecteuler.net/)__
   Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.

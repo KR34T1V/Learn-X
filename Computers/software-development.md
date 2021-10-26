@@ -12,6 +12,9 @@
 ## Front-End
 * __[CSS-Tricks](https://css-tricks.com/)__
   A large community with all the tutorials tips and tricks related to CSS.
+### UI/UX
+* __[Pencil & Paper Articles](https://pencilandpaper.io/articles/)__
+  A great place to learn how to improve your UI/UX skills and develop better a front end.
 ## Systems
 ## Other Cool Links
 * __[Project Euler](https://projecteuler.net/)__

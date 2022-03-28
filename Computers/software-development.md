@@ -16,6 +16,8 @@
 * __[Pencil & Paper Articles](https://pencilandpaper.io/articles/)__
   A great place to learn how to improve your UI/UX skills and develop better a front end.
 ## Systems
+* __[Git Branching](https://learngitbranching.js.org/)__
+  Learn how to use the basics of Git and how branching works.
 ## Other Cool Links
 * __[Project Euler](https://projecteuler.net/)__
   Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.

@@ -14,7 +14,7 @@
   A large community with all the tutorials tips and tricks related to CSS.
 ### UI/UX
 * __[Pencil & Paper Articles](https://pencilandpaper.io/articles/)__
-  A great place to learn how to improve your UI/UX skills and develop better a front end.
+  A great place to learn how to improve your UI/UX skills and develop a better front end.
 ## Systems
 * __[Git Branching](https://learngitbranching.js.org/)__
   Learn how to use the basics of Git and how branching works.

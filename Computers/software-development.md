@@ -15,9 +15,15 @@
 ### UI/UX
 * __[Pencil & Paper Articles](https://pencilandpaper.io/articles/)__
   A great place to learn how to improve your UI/UX skills and develop a better front end.
-## Systems
+## Git
 * __[Git Branching](https://learngitbranching.js.org/)__
   Learn how to use the basics of Git and how branching works.
+* __[Git How To](https://githowto.com/)__
+  Git How To is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
+* __[Oh My Git!](https://ohmygit.org/)__
+  An open source game about learning Git!
+* __[Git Immersion](https://gitimmersion.com/)__
+  A guided tour that walks through the fundamentals of Git
 ## Other Cool Links
 * __[Project Euler](https://projecteuler.net/)__
   Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.

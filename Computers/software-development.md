@@ -16,7 +16,7 @@
 * __[Pencil & Paper Articles](https://pencilandpaper.io/articles/)__
   A great place to learn how to improve your UI/UX skills and develop a better front end.
 ## WebScraping
-* __[Python Scrapy Playbook](https://scrapeops.io/python-scrapy-playbook/)
+* __[Python Scrapy Playbook](https://scrapeops.io/python-scrapy-playbook/)__
 ## Git
 * __[Git Branching](https://learngitbranching.js.org/)__
   Learn how to use the basics of Git and how branching works.
